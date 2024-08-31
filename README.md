@@ -22,6 +22,7 @@
     - [口语](#口语-1)
   - [雅思资料](#雅思资料)
   - [关于是否要报班](#关于是否要报班)
+  - [其他资源](#其他资源)
   - [参考资料](#参考资料)
 
 # 雅思备考
@@ -282,11 +283,15 @@ graph TD
 
 这次报班个人收获挺大，阅读的一些框架阅读法、写作的逻辑思维等。不过，对报班不要抱太高的期待，雅思高分还是比较**吃个人努力**的。
 
+## 其他资源
+
 这是报班做的一些思维导图，包括听说读写全部题型架构：
 
 ![资源 3](assets/资源%203.png)
 
 👉 这是对应的飞书公开文档链接： [IELTS Wiki](https://v0oyefxd4a.feishu.cn/wiki/space/7393198009359810561?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)
+
+另外推荐一个免费的 AI 作文批改网站：[www.essay.art](https://www.essay.art/)
 
 ## 参考资料
 
@@ -299,3 +304,4 @@ graph TD
 - https://www.lonelyplanet.com/
 
 - https://github.com/EthanLin-TWer/ielts
+
