@@ -265,11 +265,11 @@ graph TD
 - 雅思高频 300 考点词
 - 雅思成绩描述
 
-上面的资料内容比较大，放在夸克网盘：
+上面的资料内容比较大，GitHub 放不下，改存在夸克网盘：
 
-> 链接：https://pan.quark.cn/s/9d8d6f8965ed
+> 链接：https://pan.quark.cn/s/ee760f05e477
 >
-> 提取码：5sX2
+> 提取码：KVXF
 
 ![资源 1](assets/资源%201.png)
 
